@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Amazon/Amazon.iml" filepath="$PROJECT_DIR$/Amazon/Amazon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bycleanmate/Bycleanmate.iml" filepath="$PROJECT_DIR$/Bycleanmate/Bycleanmate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facebook/Facebook.iml" filepath="$PROJECT_DIR$/Facebook/Facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mega.nz/Mega.nz.iml" filepath="$PROJECT_DIR$/Mega.nz/Mega.nz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NYTimes/NYTimes.iml" filepath="$PROJECT_DIR$/NYTimes/NYTimes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TeamDBootCamp.iml" filepath="$PROJECT_DIR$/TeamDBootCamp.iml" />
+    </modules>
+  </component>
+</project>
